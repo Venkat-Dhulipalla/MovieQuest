@@ -2,8 +2,8 @@ import axios from "axios";
 import { dispatchAction, ActionTask } from "./utils";
 import { CancelToken as AxiosCancelToken } from "axios";
 
-const API_KEY = "db96d905bd03138abe151d6e7b38793d";
-//const API_KEY = process.env.REACT_APP_API_KEY;
+//const API_KEY = "db96d905bd03138abe151d6e7b38793d";
+const API_KEY = process.env.REACT_APP_API_KEY;
 
 export const MOVIEDB_MIDDLEWARE = "MOVIEDB_MIDDLEWARE";
 
