@@ -1,5 +1,3 @@
-Hello
-
 # MovieQuest 🎬 : Explore Your Movie Library (React / Redux)
 
 Welcome to MovieQuest, a fast and user-friendly application for discovering movies. This app is built entirely with React Hooks and the Material UI library, providing a seamless user experience.
