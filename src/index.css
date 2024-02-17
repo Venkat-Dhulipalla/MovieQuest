@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif; /* Change 'Arial' to the desired font family */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #f8f9fa; /* Light background color */
+  color: #333; /* Text color */
+  line-height: 1.6; /* Improved readability */
+  padding: 20px; /* Add some padding for better spacing */
+}
+
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
